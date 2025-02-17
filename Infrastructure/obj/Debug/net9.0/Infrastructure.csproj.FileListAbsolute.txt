@@ -1,0 +1,15 @@
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.AssemblyReference.cache
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\Infrastructure.AssemblyInfo.cs
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\Rider Projects\SchoolSchedule\Infrastructure\bin\Debug\net9.0\Infrastructure.deps.json
+D:\Rider Projects\SchoolSchedule\Infrastructure\bin\Debug\net9.0\Infrastructure.dll
+D:\Rider Projects\SchoolSchedule\Infrastructure\bin\Debug\net9.0\Infrastructure.pdb
+D:\Rider Projects\SchoolSchedule\Infrastructure\bin\Debug\net9.0\Application.dll
+D:\Rider Projects\SchoolSchedule\Infrastructure\bin\Debug\net9.0\Application.pdb
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\Infrastr.15EFFBFE.Up2Date
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\Infrastructure.dll
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\refint\Infrastructure.dll
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
+D:\Rider Projects\SchoolSchedule\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
