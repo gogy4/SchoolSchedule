@@ -8,10 +8,10 @@ using System.Threading.Tasks;
 var builder = Host.CreateDefaultBuilder(args)
     .ConfigureServices((context, services) =>
     {
-        var botToken = Environment.GetEnvironmentVariable("7579010241:AAGEBUpzrMRZC9_VsBHitKvRvDGFXiwnN9M") ?? "7579010241:AAGEBUpzrMRZC9_VsBHitKvRvDGFXiwnN9M";
+        var botToken = Environment.GetEnvironmentVariable("ваш ключ") ?? "ваш ключ";
 
-        services.AddSingleton<ITelegramBotService>(new TelegramBotClient(botToken)); // Используем TelegramBotService
-        services.AddSingleton<BotHandler>(); // Регистрируем BotHandler
+        services.AddSingleton<ITelegramBotService>(new TelegramBotClient(botToken)); 
+        services.AddSingleton<BotHandler>(); 
         services.AddSingleton<IFetchImage, FetchImage>(); 
     })
     .Build();

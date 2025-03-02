@@ -20,3 +20,4 @@ D:\Rider Projects\SchoolSchedule\Presentation\obj\Debug\net9.0\ref\Presentation.
 D:\Rider Projects\SchoolSchedule\Presentation\bin\Debug\net9.0\HtmlAgilityPack.dll
 D:\Rider Projects\SchoolSchedule\Presentation\bin\Debug\net9.0\Infrastructure.dll
 D:\Rider Projects\SchoolSchedule\Presentation\bin\Debug\net9.0\Infrastructure.pdb
+D:\Rider Projects\SchoolSchedule\Presentation\obj\Debug\net9.0\Presentation.sourcelink.json

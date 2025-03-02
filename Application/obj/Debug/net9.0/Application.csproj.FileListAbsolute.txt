@@ -10,3 +10,4 @@ D:\Rider Projects\SchoolSchedule\Application\obj\Debug\net9.0\Application.dll
 D:\Rider Projects\SchoolSchedule\Application\obj\Debug\net9.0\refint\Application.dll
 D:\Rider Projects\SchoolSchedule\Application\obj\Debug\net9.0\Application.pdb
 D:\Rider Projects\SchoolSchedule\Application\obj\Debug\net9.0\ref\Application.dll
+D:\Rider Projects\SchoolSchedule\Application\obj\Debug\net9.0\Application.sourcelink.json
